@@ -17,9 +17,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
             //Deneme Projesidir.
         }
-        public class Alicalgan
-        {
-
-        }
+     
     }
 }
