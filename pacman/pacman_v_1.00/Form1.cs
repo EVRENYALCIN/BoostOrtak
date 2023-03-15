@@ -80,6 +80,8 @@ namespace pacman_v_1._00
                     pacman_Model.pacman[1] = g;
                 }
                 yon = yon.bottom;
+
+                //durmustest
             }
         }
     }
