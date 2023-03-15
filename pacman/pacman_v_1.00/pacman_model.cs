@@ -19,7 +19,7 @@ namespace pacman_v_1._00
     }
     internal class pacman_model
     {
-        public bool left = false, right = false, top = false, bottom = false
+        public bool left = false, right = false, top = false, bottom = false;
         public pacmanDegenyon degenyon;
         private int currentIndex = 0;
         public Image[] pacman = new Image[2]
