@@ -81,6 +81,10 @@ namespace pacman_v_1._00
                 }
                 yon = yon.bottom;
             }
+            
+
+            //durmus 
+
         }
     }
 }
